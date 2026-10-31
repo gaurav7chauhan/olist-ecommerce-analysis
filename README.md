@@ -33,7 +33,7 @@ customers and geolocation.
 ## Progress
 - [x] Task 1: Understand the data and relationships
 - [x] Task 2: Create tables and load data into PostgreSQL
-- [ ] Task 3: Data quality checks and cleaning
+- [x] Task 3: Data quality checks and cleaning
 - [ ] Task 4: Sales and revenue analysis
 - [ ] Task 5: Customer and retention analysis
 - [ ] Task 6: Delivery and review analysis
