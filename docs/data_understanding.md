@@ -12,7 +12,7 @@ analyze the data and Power BI to build a dashboard.
 | orders | one order | 99,441 |
 | order_items | one item line inside an order | 112,650 |
 | order_payments | one payment for an order | 103,886 |
-| order_reviews | one review of an order | [your count] |
+| order_reviews | one review of an order | 99,224 |
 | products | one product | 32,951 |
 | sellers | one seller | 3,095 |
 | geolocation | one zip-code coordinate record | 1,000,163 |
