@@ -34,11 +34,13 @@ customers and geolocation.
 - [x] Task 1: Understand the data and relationships
 - [x] Task 2: Create tables and load data into PostgreSQL
 - [x] Task 3: Data quality checks and cleaning
-- [ ] Task 4: Sales and revenue analysis
-- [ ] Task 5: Customer and retention analysis
+- [x] Task 4: Sales and revenue analysis
+- [x] Task 5: Customer and retention analysis
 - [ ] Task 6: Delivery and review analysis
 - [ ] Task 7: Power BI dashboard
 - [ ] Task 8: Insights report
 
 ## Key Findings
-Coming soon.
+1. Revenue peaked in November 2017 (likely Black Friday).
+2. health_beauty is the top category by revenue.
+3. Credit card is the most used payment method.
